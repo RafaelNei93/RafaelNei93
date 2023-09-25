@@ -1,6 +1,6 @@
 ### 👋 Hey everyone!! My name is Rafael Nei 🤓
 
-I am a <b>Software Engineer student</b>. Currently, I am working as Internal Support, at Stubhub.<br>
+I am a <b>Software Engineer student</b>. Currently, I am working as Quality Assurance Specialist, at Stubhub.<br>
 
 💻 I have started to develop my skills on software development since 2022. I am currently learning Modern Web with JS, and some frameworks.
 
