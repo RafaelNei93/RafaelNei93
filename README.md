@@ -1,8 +1,8 @@
 ### 👋 Hey everyone!! My name is Rafael 🤓
 
-I am a <b>Software Engineer student</b>. Currently, I am working as Event Data Management Quality Assurance, at Stubhub.<br>
+I am a <b>Cloud Technologies Student</b>. Currently, I am working as Event Data Management QA, at Stubhub.<br>
 
-💻 I have started to develop my skills on software development since 2022. I am currently learning Modern Web with JS, and some frameworks.
+💻 I have started to develop my skills on software development since 2022.
 
 🎲 <b>Skills:</b> HTML, CSS, Bootstrap, JavaScript and React. <br>
 
