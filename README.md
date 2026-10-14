@@ -1,4 +1,4 @@
-### 👋 Hey everyone!! My name is Rafael 🤓
+### 👋 Hey everyone!! My name is Rafael
 
 I am a <b>Cloud Technologies Student</b>. Currently, I am working as Event Data Management QA, at Stubhub.<br>
 
